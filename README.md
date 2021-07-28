@@ -4,7 +4,13 @@ My BSPWM setup (Arch Linux) dotfiles
 # Preview
 ![Preview](./src/preview.png)
 
-# Used in Preview
+# System
+Arch Linux (kernel: zen, packages: pacman) + LightDM
+
+# Apps
+  - Terminal Emulator-> kitty
+  - File Manager -> Ranger
+  - Polybar
   - Neofetch
   - Spotify (Spicetify installed -> DribbblishDynamic Theme)
   - Pipes.sh

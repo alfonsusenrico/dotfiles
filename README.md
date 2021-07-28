@@ -8,6 +8,7 @@ My BSPWM setup dotfiles
 Arch Linux (kernel: zen, packages: pacman) + LightDM
 
 # Apps
+  - Sxhkd
   - Terminal Emulator-> kitty
   - File Manager -> Ranger
   - Polybar

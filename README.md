@@ -1,5 +1,5 @@
 # Dotfiles
-My BSPWM setup (Arch Linux) dotfiles
+My BSPWM setup dotfiles
 
 # Preview
 ![Preview](./src/preview.png)
